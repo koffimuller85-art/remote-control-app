@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Remote Control</string>
+    <string name="accessibility_service_description">Permet de contrôler cet appareil à distance depuis l\'iPhone connecté (simule des taps à l\'écran).</string>
+</resources>
